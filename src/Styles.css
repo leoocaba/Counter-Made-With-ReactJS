@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  background-color: black;
+  color: white;
+  width: 100vw;
+  height: 100vh;
+  border: 3px solid white;
+}
+
+body .counter h1 {
+  text-align: center;
+  color: aquamarine;
+}
+
+body .counter .btn {
+  padding: 10px;
+}
